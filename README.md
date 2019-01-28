@@ -3,3 +3,8 @@ Kaleidoscoper written in python generates batches of images from input images an
 
 [![Watch the video](images/earth.jpg)](https://vimeo.com/222773533)
 
+GUI
+![GUI](images/gui.png)
+
+Generating images from wav
+![GUI](images/running.png)
